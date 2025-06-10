@@ -10,4 +10,5 @@ source code/소스코드: https://drive.google.com/file/d/10Zn2kfeEyHWwjaXRxrWkq
 video/시연 영상: https://youtu.be/25BbWyNA_-g?si=Y8D3g9Lj-IX369UZ
 
 sound effect/효과음 by pixabay
+
 dropship tts/우주선 tts made using Eleven Labs
